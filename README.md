@@ -20,3 +20,12 @@ Veri Setleri
 16. *TensorFlow Datasets*(https://www.tensorflow.org/datasets) 
 17. *Yelp Veri Seti* (https://www.yelp.com/dataset) 
 18. *Amazon İnceleme Veri Seti* (https://nijianmo.github.io/amazon/index.html)
+
+# Görüntü İşleme
+DATA SOURCES for COURSE PROJECT:
+https://eod-grss-ieee.com/dataset-search
+https://openremotesensing.net/
+https://github.com/satellite-image-deep-learning/datasets
+https://bigearth.eu/datasets
+https://rsim.berlin/datasets
+https://paperswithcode.com/datasets?task=remote-sensing-image-classification
